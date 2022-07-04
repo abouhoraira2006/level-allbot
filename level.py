@@ -115,5 +115,5 @@ async def leaderboard(ctx):
             current = buttons[reaction.emoji]
 
 bot.loop.create_task(initialize())
-bot.run("OTU2MTgyMTM5OTk1NTUzODQy.G_yPGu.s0sqAjoa_zOiKepE1hJ_9quF5yOVtfXhOQvtG4")
+bot.run("OTU2MTgyMTM5OTk1NTUzODQy.GZmeVg.g6_rp4vyayLxlq7PlZktStL7Qeq3VPhInJfXK8")
 asyncio.run(bot.db.close())
