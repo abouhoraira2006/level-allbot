@@ -74,9 +74,6 @@ async def me(ctx, member: discord.Member=None):
 #token = 'OTg2Mjc5NDczNTAwNTQwOTc5.G0a0SS.YKWszF8AEO3lEnfQ3L98_dQOkOZIpdxmZQ00xQ'
 bot.loop.create_task(initialize())
 #bot.run(token)
-bot.run('OTg1OTIyMTY0NjkzODE5NDY0.G3b60X.W0XNTV_PIdeq7FCFHABPtrnm3PxPMwLoi8Ce5M')
-#OTU2MTgyMTM5OTk1NTUzODQy.GZmeVg.g6_rp4vyayLxlq7PlZktStL7Qeq3VPhInJfXK8
-#bot.run("OTU2MTgyMTM5OTk1NTUzODQy.G_yPGu.s0sqAjoa_zOiKepE1hJ_9quF5yOVtfXhOQvtG4")
-#bot.run('OTg2Mjc5NDczNTAwNTQwOTc5.G0a0SS.YKWszF8AEO3lEnfQ3L98_dQOkOZIpdxmZQ00xQ')
-#bot.run('OTg2Mjc5NDczNTAwNTQwOTc5.G0a0SS.YKWszF8AEO3lEnfQ3L98_dQOkOZIpdxmZQ00xQ')
+#MTA0OTcyMzE1NjI0MTMzMDI1OA.G511jv.uqLXhWYokKqXXQZKZ2zxrKHrtqVC4sLgeRTjSo
+
 asyncio.run(bot.db.close())
